@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Kang Bing</title>
-    <link>https://github.com/kangbing1226/kangbing1226.github.io.git/post/</link>
+    <link>https://github.com/kangbing1226/kangbing1226.github.io/post/</link>
     <description>Recent content in Posts on Kang Bing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://github.com/kangbing1226/kangbing1226.github.io.git/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://github.com/kangbing1226/kangbing1226.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://github.com/kangbing1226/kangbing1226.github.io.git/post/first/</link>
+      <link>https://github.com/kangbing1226/kangbing1226.github.io/post/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kangbing1226/kangbing1226.github.io.git/post/first/</guid>
+      <guid>https://github.com/kangbing1226/kangbing1226.github.io/post/first/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://github.com/kangbing1226/kangbing1226.github.io.git/post/%E4%BD%BF%E7%94%A8github-pagehugo-%E5%92%8Cmarkdown%E5%AE%8C%E6%88%90%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <link>https://github.com/kangbing1226/kangbing1226.github.io/post/%E4%BD%BF%E7%94%A8github-pagehugo-%E5%92%8Cmarkdown%E5%AE%8C%E6%88%90%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kangbing1226/kangbing1226.github.io.git/post/%E4%BD%BF%E7%94%A8github-pagehugo-%E5%92%8Cmarkdown%E5%AE%8C%E6%88%90%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <guid>https://github.com/kangbing1226/kangbing1226.github.io/post/%E4%BD%BF%E7%94%A8github-pagehugo-%E5%92%8Cmarkdown%E5%AE%8C%E6%88%90%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
       <description> 使用github page、hugo 和markdown完成个人博客
 一：使用github创建远程仓库 </description>
     </item>
