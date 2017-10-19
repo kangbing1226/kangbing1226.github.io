@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://github.com/kangbing1226/kangbing1226.github.io.git/post/first/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/kangbing1226/kangbing1226.github.io.git/post/%E4%BD%BF%E7%94%A8github-pagehugo-%E5%92%8Cmarkdown%E5%AE%8C%E6%88%90%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/kangbing1226/kangbing1226.github.io.git/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/kangbing1226/kangbing1226.github.io.git/tags/development/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/kangbing1226/kangbing1226.github.io.git/categories/development/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/kangbing1226/kangbing1226.github.io.git/tags/golang/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/kangbing1226/kangbing1226.github.io.git/categories/golang/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/kangbing1226/kangbing1226.github.io.git/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/kangbing1226/kangbing1226.github.io.git/post/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/kangbing1226/kangbing1226.github.io.git/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
